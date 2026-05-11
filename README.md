@@ -1,16 +1,16 @@
 # PseudoRelics
-PseudoRelics is a Python-based pseudogene prediction and annotation tool that identifies pseudogenes from both intergenic and genic regions. It outputs the location, sequence characteristics, and annotation information of pseudogenes through:
+PseudoRelics, a novel computational pipeline for plant pseudogene annotation that integrates a two-round iterative algorithm with structural analysis and global-local alignment, is a Python-based pseudogene prediction and annotation tool.  It outputs the location, sequence characteristics, and annotation information of pseudogenes through:
 
-PseudoRelics: Pseudogene Annotation Tool
+PseudoRelics: a novel computational pipeline for plant pseudogene annotation.
 Contents
-Introduction
-Installation
-Usage
-oInput
-oRunning PseudoRelics
-oOutput
-oTest
-Citation
+##Introduction
+##Installation
+##Usage
+*Input
+*Running PseudoRelics
+*Output
+*Test
+*Citation
 
 1. Introduction
 Several tools have been developed to perform pseudogene prediction and annotation in plant and animal genomes. Most existing tools focus on intergenic region pseudogenes, typically masking the genic regions.
